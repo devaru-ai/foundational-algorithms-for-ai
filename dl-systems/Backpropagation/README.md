@@ -4,7 +4,7 @@
 
 Suppose we modify a single neuron in a feedforward network so that the output from the neuron is given by $$f\left(\sum_j w_j x_j + b\right)$$, where $$f$$ is some function other than the sigmoid. How should we modify the backpropagation algorithm in this case?
 
-- **Implementation Note:** The conceptual changes for this exercise will be demonstrated within the backprop method of `backprop_algo.py`.
+- **Solution File:** `single-modified-neuron.py`.
   
 ### 2. Backpropagation with linear neurons
 
