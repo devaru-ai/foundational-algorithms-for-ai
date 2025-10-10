@@ -28,3 +28,18 @@
 | K-Means & Clustering       | 0/3             | Centroid initialization and distance metrics.          |
 | PCA & Dimensionality Reduction | 0/3         | Eigenvectors/Eigenvalues and variance.       |
 
+## 4. Advanced Concepts & System Design
+
+| Category | Implementations | Core Concepts |
+| :--- | :--- | :--- |
+| **LLM Specifics** | RAG (Retrieval-Augmented Generation), Hallucination Prevention | Vector Databases, Indexing, Embeddings, Prompt Engineering, Citation Mechanisms, Fine-tuning vs. In-Context Learning |
+| **System Design** | API Endpoints (REST/gRPC), Load Balancers, Caching Layers | Designing End-to-End LLM Pipelines, Scalability, High Availability, Fault Tolerance, Latency vs. Throughput Trade-offs |
+| **MLOps & Production** | Model Monitoring, Drift Detection, A/B Testing, Shadow Deployment | Data and Concept Drift, Feature Stores, Model Versioning, CI/CD for ML (MLOps pipelines) |
+
+
+## 5. Behavioral & Applied Skills
+
+| Category | Implementations | Core Concepts |
+| :--- | :--- | :--- |
+| **Applied Problem-Solving** | Project Discussions, Technical Decision-Making, Trade-off Analysis | The STAR method (Situation, Task, Action, Result), Handling Failure, Technical Communication with Non-Experts |
+| **Foundational ML** | Feature Engineering, Data Preprocessing | Bias-Variance Trade-off, Overfitting, Underfitting, Model Selection, Unsupervised Learning (e.g., Clustering, Dimensionality Reduction) |
